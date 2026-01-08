@@ -23,3 +23,7 @@ The [administrator](https://polygonscan.com/address/0x518ab58fd7ddcfe5f8ee02a594
 [PTE Currency](https://polygonscan.com/token/0x05239EC7b7681cBCA82958791B87bF4d529CE6FF) address is: ``0x05239EC7b7681cBCA82958791B87bF4d529CE6FF``
 
 [PTE License](https://polygonscan.com/token/0xcd69a5578C30903E89812193Da2ac1a612BADb42) address is: ``0xcd69a5578C30903E89812193Da2ac1a612BADb42``
+
+[PTE Currency ABI](https://polygonscan.com/token/0x05239EC7b7681cBCA82958791B87bF4d529CE6FF#code)
+
+[PTE License ABI](https://polygonscan.com/token/0xcd69a5578C30903E89812193Da2ac1a612BADb42#code)
